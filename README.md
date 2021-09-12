@@ -56,7 +56,7 @@ At the next stage, we required to implement a server with api to the pokemons da
 * `/pokemons/<pokemon_id>` `DELETE`: deletes pokemon.
 * `/pokemons/<trainer>` `DELETE`: deletes all pokemons of trainer.
 * `/pokemons/types/<pokemon_name>` `PUT`: updates pokemon types.
-* `/evolve` `PUT`: evolves specific pokemon of specific trainer.
+* `/evolve` `PUT`: [evolves](https://github.com/AyalaGottfried/Pokemon/blob/master/README.md#evolution) specific pokemon of specific trainer.
 
 #### Evolution
 1. Get the info of a specific pokemon. 
